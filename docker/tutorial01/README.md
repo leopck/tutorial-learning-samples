@@ -3,7 +3,7 @@
 ## Installation
 
 On Clear Linux:
-`sudo swupd bundle-add container-basic`
+`sudo swupd bundle-add containers-basic`
 
 ## Tutorial 1
 
